@@ -16,4 +16,3 @@ Aqui compartiré diferentes proyectos relacionados a ciencias de datos en genera
 
 ## 📝 Artículos cientificos publicados:
 - [Apoyo Al Proceso De Diagnóstico De Neumonía Asociada Al Covid-19 Utilizando Modelos De Redes Neuronales Convolucionales, Con Keras Y Tensorflow](https://laccei.org/LACCEI2021-VirtualEdition/meta/FP566.html)
--->
