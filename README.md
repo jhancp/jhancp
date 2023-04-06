@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/70854575/230126551-5ca2ccc0-205f-41dc-98b0-e540b0e858de.jpeg "Header")
+![Header](https://user-images.githubusercontent.com/70854575/230503226-eab468f9-5b07-4a38-b3fc-c82f530821fb.jpg "Header")
 
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jhancp/)
